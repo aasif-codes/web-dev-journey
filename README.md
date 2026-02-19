@@ -1,5 +1,12 @@
-# HTML Learning
+# HTML & CSS Learning
 
-A collection of small HTML/CSS practice files to learn and test concepts.  
-Completed web pages have their own repositories.  
-Feel free to explore the files!
+This repository contains my practice exercises for learning HTML and CSS.  
+It includes experiments with structure, styling, layouts, and basic interactive elements.  
+The goal is to improve my front-end skills and keep a record of my learning progress.
+
+## Contents
+- HTML structure exercises
+- CSS styling experiments
+- Layouts using Flexbox and Grid
+- Buttons, forms, and simple interactions
+
