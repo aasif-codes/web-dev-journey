@@ -1,12 +1,22 @@
-# HTML & CSS Learning
+# Front-End Foundation
 
-This repository contains my practice exercises for learning HTML and CSS.  
-It includes experiments with structure, styling, layouts, and basic interactive elements.  
-The goal is to improve my front-end skills and keep a record of my learning progress.
+This repository contains my front-end practice files and learning exercises.
+It focuses on strengthening my fundamentals rather than building large projects.
 
-## Contents
-- HTML structure exercises
-- CSS styling experiments
-- Layouts using Flexbox and Grid
-- Buttons, forms, and simple interactions
+# Purpose
 
+Practice core web development concepts
+
+Improve HTML structure
+
+Experiment with CSS layouts and styling
+
+Learn and apply basic JavaScript
+
+# Technologies
+
+HTML5
+
+CSS3
+
+JavaScript (Basics)
