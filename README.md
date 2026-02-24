@@ -1,4 +1,4 @@
-# Front-End Practice Repository
+# Front-End Learning Repository
 
 This repository contains my front-end learning and practice files created while studying HTML, CSS, and JavaScript.
 It mainly includes small experiments, code snippets, and short practice exercises used to understand core concepts.
